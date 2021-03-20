@@ -1,0 +1,4 @@
+name: Grapple
+version: ${project.version}
+main: be4rjp.grapple.Grapple
+api-version: 1.14
